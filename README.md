@@ -13,7 +13,7 @@
 A simple video player for iOS, based on AVPlayer. Support the vertical, horizontal screen(lock screen direction). Support adjust volume, brigtness and video progress.
 
 
-[中文说明](https://github.com/renzifeng/ZFPlayer/blob/master/README.zh.md)&emsp;&emsp;[ZFPlayer剖析](http://www.jianshu.com/p/5566077bb25f)&emsp;&emsp;[哪些app使用ZFPlayer](http://www.jianshu.com/p/5fa55a05f87b)
+(https://github.com/renzifeng/ZFPlayer/blob/master/README.zh.md)&emsp;&emsp;(http://www.jianshu.com/p/5566077bb25f)&emsp;&emsp;(http://www.jianshu.com/p/5fa55a05f87b)
 
 ## Features
 - [x] Support for horizontal and vertical play mode, in horizontal mode can also lock the screen direction
@@ -303,7 +303,7 @@ See the [BMPlayer](https://github.com/BrikerMan/BMPlayer) please, thanks the BMP
 ---
 
 # Contact me
-- Weibo: [@任子丰](https://weibo.com/zifeng1300)
+- Weibo: (https://weibo.com/zifeng1300)
 - Email:  zifeng1300@gmail.com
 - QQ：459643690
 - QQ Group: 213376937（full） 213375947（add this）
