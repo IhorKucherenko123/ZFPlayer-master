@@ -303,10 +303,7 @@ See the [BMPlayer](https://github.com/BrikerMan/BMPlayer) please, thanks the BMP
 ---
 
 # Contact me
-- Weibo: (https://weibo.com/zifeng1300)
-- Email:  zifeng1300@gmail.com
-- QQ：459643690
-- QQ Group: 213376937（full） 213375947（add this）
+- Email:  ihorkucherenko123@gmail.com
 
 # License
 
